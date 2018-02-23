@@ -8,7 +8,7 @@ public class Main {
         if (n < 10 && n >=0) {
             System.out.println("DIGIT");
         } else {
-        if ((n >= 10) && (n < 100) {
+        if ((n >= 10) && (n < 100)) {
             System.out.println("NUM");
         }
         else {
